@@ -5,6 +5,16 @@
     z-index: 9999999;
 }
 
-.test-class {
-    background-color: red !important;
+.neb-website-grading1to10 > neb-rating {
+    display: block;
+}
+
+.neb-website-grading1to10 > neb-rating > .neb-rating .stars {
+    width: 100%;
+}
+
+.neb-website-grading1to10>neb-rating>.neb-rating .stars > form ng-pristine > span {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
 }
