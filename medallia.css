@@ -4,3 +4,7 @@
     right: 15px !important;
     z-index: 9999999;
 }
+
+body {
+    background-color: red !important;
+}
