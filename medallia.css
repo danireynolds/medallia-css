@@ -1,0 +1,7 @@
+.neb-form-close-btn {
+    position: relative;
+    top: 40px !important;
+    right: 15px !important;
+    z-index: 9999999;
+}
+
