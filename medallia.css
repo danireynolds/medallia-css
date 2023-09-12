@@ -5,10 +5,6 @@
     z-index: 9999999;
 }
 
-body {
-    background-color: red !important;
-}
-
 .test-class {
     background-color: red !important;
 }
