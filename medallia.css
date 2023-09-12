@@ -13,7 +13,7 @@
     width: 100%;
 }
 
-.neb-website-grading1to10>neb-rating>.neb-rating.stars > form ng-pristine > span {
+.neb-website-grading1to10>neb-rating>.neb-rating.stars > form.ng-pristine > span {
     display: flex;
     flex-direction: row;
     gap: 1rem;
