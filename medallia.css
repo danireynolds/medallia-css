@@ -19,10 +19,6 @@
     gap: 1rem;
 }
 
-.test-cdn-speed {
-    background-color: aliceblue;
-}
-
 /*** IPhone X and IPhone 6/7/8 ***/
 @media only screen and (min-width: 370px) and (max-width: 380px) {
     #liveForm .kpl_builder .panel-footer .btn.submit-btn {
