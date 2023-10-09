@@ -5,18 +5,16 @@
     z-index: 9999999;
 }
 
-.neb-website-grading1to10 > neb-rating {
-    display: block;
-}
-
-.neb-website-grading1to10 > neb-rating > .neb-rating.stars {
-    width: 100%;
-}
-
-.neb-website-grading1to10>neb-rating>.neb-rating.stars > form.ng-pristine > span {
+neb-rating .neb-rating span {
+    outline: none;
     display: flex;
-    flex-direction: row;
-    gap: 1rem;
+    justify-content: space-between;
+}
+
+#liveForm .kpl_builder .modal-live-form {
+    overflow-y: auto;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 /*** IPhone X and IPhone 6/7/8 ***/
